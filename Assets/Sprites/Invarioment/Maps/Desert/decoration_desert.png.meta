@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 4ed6ed16c0e88f24db7b732b951dd7d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2139659993755932003
+    second: decoration_desert_0
+  - first:
+      213: 2369245191915262088
+    second: decoration_desert_1
+  - first:
+      213: -3250293818454046985
+    second: decoration_desert_2
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: decoration_desert_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 3
+        height: 4
+      alignment: 9
+      pivot: {x: 0.52151746, y: -0.016421318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365dfeb8d6991bd10800000000000000
+      internalID: 2139659993755932003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_desert_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 19
+        width: 2
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5645528, y: 0.0029444695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88059e103ff31e020800000000000000
+      internalID: 2369245191915262088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_desert_2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 17
+        width: 8
+        height: 6
+      alignment: 9
+      pivot: {x: 0.50322723, y: 0.030917486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6066f2ef2a4e2d0800000000000000
+      internalID: -3250293818454046985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_desert_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12
+        width: 2
+        height: 2
+      alignment: 9
+      pivot: {x: 0.49999976, y: -0.05515337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ce0f4a28166c549b62aa5fa96eaa18
+      internalID: 1616286626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_desert_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11
+        width: 2
+        height: 4
+      alignment: 9
+      pivot: {x: 0.4612682, y: 0.0093996525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdcbb8c8c4c108439322e0978dc46b0
+      internalID: 1925589205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_desert_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 4
+        height: 5
+      alignment: 9
+      pivot: {x: 0.4935447, y: 0.019728279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ad17a29c93f274ea1a3f4d0da9f302
+      internalID: -1721328956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_desert_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 2
+        height: 2
+      alignment: 9
+      pivot: {x: 0.49999976, y: 0.03522092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4557ec7b18c79e6469ed9840cb52323c
+      internalID: 1964859415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_desert_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.4963116, y: 0.013089026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27034c7c994b3024cb1f05f7a657e92f
+      internalID: -1222084763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_desert_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 10
+        width: 3
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5172138, y: 0.00079329807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd38fb38ce5d334b8ca6969604d142b
+      internalID: 682571120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_desert_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 11
+        width: 2
+        height: 4
+      alignment: 9
+      pivot: {x: 0.51291084, y: 0.0093996525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b7b97b34a1dd64c93df5d79f4df6e6
+      internalID: -1841454715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_desert_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 5
+        width: 2
+        height: 4
+      alignment: 9
+      pivot: {x: 0.4870882, y: 0.009400606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5c2500399fad14183c17e879dccd92
+      internalID: 2079393082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_desert_11
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 11
+        width: 2
+        height: 4
+      alignment: 9
+      pivot: {x: 0.51291084, y: -0.009966135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec65b8231e2b8441b50d40606269bdd
+      internalID: 1588511371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_desert_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 6
+        width: 2
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5387316, y: -0.00996542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941a18e9b3811014ab7e9e99c121c88c
+      internalID: 1576981632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_desert_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 12
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 0.5344283, y: 0.01800696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b00594e8bfce44c8fb766bd44566c2
+      internalID: -900936965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_desert_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 7
+        width: 3
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5258198, y: -0.009966254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fa1582e3244be46b40311e4b9111e8
+      internalID: 78436734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_desert_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2
+        width: 1
+        height: 3
+      alignment: 9
+      pivot: {x: 0.4999981, y: 0.018006882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3d1edd07cc027499e0a2ce1d33f691
+      internalID: 1190561088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 946cb1d0a55e00f4082ce8b82ac40d33
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      decoration_desert_0: 2139659993755932003
+      decoration_desert_1: 2369245191915262088
+      decoration_desert_10: 2079393082
+      decoration_desert_11: 1588511371
+      decoration_desert_12: 1576981632
+      decoration_desert_13: -900936965
+      decoration_desert_14: 78436734
+      decoration_desert_15: 1190561088
+      decoration_desert_2: -3250293818454046985
+      decoration_desert_3: 1616286626
+      decoration_desert_4: 1925589205
+      decoration_desert_5: -1721328956
+      decoration_desert_6: 1964859415
+      decoration_desert_7: -1222084763
+      decoration_desert_8: 682571120
+      decoration_desert_9: -1841454715
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

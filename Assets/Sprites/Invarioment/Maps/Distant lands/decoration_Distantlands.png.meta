@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: a5504825e0ca5494c80ff3c02107b7e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4050681345162050053
+    second: decoration_Distantlands_0
+  - first:
+      213: 443208957777893538
+    second: decoration_Distantlands_1
+  - first:
+      213: 335012612452373917
+    second: decoration_Distantlands_2
+  - first:
+      213: -1290317617648150712
+    second: decoration_Distantlands_3
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: decoration_Distantlands_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 0.51721364, y: -0.025028864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a7fa4d839e63830800000000000000
+      internalID: 4050681345162050053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_Distantlands_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 21
+        width: 2
+        height: 2
+      alignment: 9
+      pivot: {x: 0.5, y: -0.016422272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a85f99e238962600800000000000000
+      internalID: 443208957777893538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_Distantlands_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 19
+        width: 1
+        height: 1
+      alignment: 9
+      pivot: {x: 0.4741783, y: 0.06104088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95df70323436a400800000000000000
+      internalID: 335012612452373917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_Distantlands_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12
+        width: 2
+        height: 2
+      alignment: 9
+      pivot: {x: 0.5516416, y: -0.0809741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84757a096fed71ee0800000000000000
+      internalID: -1290317617648150712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_Distantlands_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 4
+        height: 5
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.019728279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e497c5530672f194ba539f6227af14bc
+      internalID: -258011325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_Distantlands_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.50737774, y: -0.0016656177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9145106ed4f2e314d82d4f8be0965076
+      internalID: 166412463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_Distantlands_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 2
+        height: 2
+      alignment: 9
+      pivot: {x: 0.525821, y: 0.061041594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6321e6d1b46f0447839666127be0434
+      internalID: -125591813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_Distantlands_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 11
+        width: 3
+        height: 5
+      alignment: 9
+      pivot: {x: 0.49999937, y: 0.004235649}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ccf6e1a71046e43a49f993260cf503
+      internalID: -1897293539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_Distantlands_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4
+        width: 4
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: -0.012117107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104771adbc5134a439cd9d46c5801770
+      internalID: -1695128411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_Distantlands_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 11
+        width: 3
+        height: 5
+      alignment: 9
+      pivot: {x: 0.49999937, y: 0.014564514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b24480a34d6ed4b99040e135eb04e9
+      internalID: 876766492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_Distantlands_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 11
+        width: 3
+        height: 5
+      alignment: 9
+      pivot: {x: 0.49999937, y: 0.019728279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cec3fd3e20cbc42ab2840e7a1bb74c
+      internalID: -1914596602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_Distantlands_11
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 6
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.48708868, y: -0.022876382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324ed4585a05e5048a008b2e6f9e118d
+      internalID: 1236687964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_Distantlands_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 12
+        width: 3
+        height: 3
+      alignment: 9
+      pivot: {x: 0.5086072, y: 0.00079313916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e3e607470ea40478fb9e4425088f01
+      internalID: -318581388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decoration_Distantlands_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 7
+        width: 4
+        height: 3
+      alignment: 9
+      pivot: {x: 0.51291037, y: -0.042242527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c02481a95cccf14986d966ad87351d9
+      internalID: 1359150318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f414ae391650c694382431a94807913d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      decoration_Distantlands_0: 4050681345162050053
+      decoration_Distantlands_1: 443208957777893538
+      decoration_Distantlands_10: -1914596602
+      decoration_Distantlands_11: 1236687964
+      decoration_Distantlands_12: -318581388
+      decoration_Distantlands_13: 1359150318
+      decoration_Distantlands_2: 335012612452373917
+      decoration_Distantlands_3: -1290317617648150712
+      decoration_Distantlands_4: -258011325
+      decoration_Distantlands_5: 166412463
+      decoration_Distantlands_6: -125591813
+      decoration_Distantlands_7: -1897293539
+      decoration_Distantlands_8: -1695128411
+      decoration_Distantlands_9: 876766492
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
